@@ -8,4 +8,4 @@ Programa que pide el diámetro de una pizza y devuelve la superficie
 import math
 dPizza = int(input("Introduzca el diámetro de su pizza: "))
 sPizza = math.pi * (dPizza/2)**2
-print("La superfície de su pizza es: ")
+print(f"La superfície de su pizza es: {sPizza:.2f}")
