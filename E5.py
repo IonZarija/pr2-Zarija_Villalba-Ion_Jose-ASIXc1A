@@ -7,3 +7,7 @@ Programa que al intoducir una palabra, canvie las vocales por números ( a=1 )
 """
 pal = str(input("Introduzca una palabra: "))
 pal = pal.replace("a", "1")
+pal = pal.replace("e", "2")
+pal = pal.replace("i", "3")
+pal = pal.replace("o", "4")
+pal = pal.replace("u", "5")
