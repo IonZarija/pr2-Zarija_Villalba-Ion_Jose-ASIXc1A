@@ -9,4 +9,4 @@ bas = float(input("Introduzca la base del aula: "))
 alt = float(input("Ahora la altura: "))
 prof = float(input("Finalmente la profundidad: "))
 vol = bas*alt*prof
-print("El volumen del aula es: ", vol)
+print("El volumen del aula es ", vol, "m³")
