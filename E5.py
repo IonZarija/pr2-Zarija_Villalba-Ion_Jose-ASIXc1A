@@ -16,4 +16,5 @@ pal = pal.replace("E", "2")
 pal = pal.replace("I", "3")
 pal = pal.replace("O", "4")
 pal = pal.replace("U", "5")
-print("Su palabara queda como: ", pal)
+print("Su palabara queda: ", pal)
+
