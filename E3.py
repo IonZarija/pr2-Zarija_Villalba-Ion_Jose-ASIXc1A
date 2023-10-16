@@ -1,6 +1,7 @@
 """
 Ion Zarija
 José Villalba
+Omar Vargas
 09/10/23
 ASIXc1A M03 UF1 A2
 Escriu un programa que al introducir 5 números, muestra si el 5o está en el rango del 1o,2o y 3o,4o
